@@ -60,6 +60,7 @@ export class UpstreamPeer
 
     private async _writeHeader( hdr: MultiEraHeader ): Promise<boolean>
     {
+        
         const writeRes = await this.headerPool.write( hdr.hash, hdr.toCborBytes() );
         switch( writeRes ) {
             case HeaderPoolWriteResult.InsufficientSpace: {

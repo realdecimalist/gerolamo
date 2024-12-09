@@ -84,15 +84,19 @@ First off, thanks for your interest in contributing to Gerolamo! This is an open
 
 ## Communication
 
-- **Chat & Discussion:**  
-  We’re setting up a Slack/Discord channel for quick questions and updates. Check the README or main repo page for a link to join.
+Consider opening an issue or propose a pull request if you:
+- Found a bug
+- Want to propose a new feature
+- Think something can be improved
 
-- **Pull Request and Issue Comments:**  
+For everything else consider using the [Cardano stack exchange](https://cardano.stackexchange.com/) using the `gerolamo` tag alongside other tags relevant to your question (e.g. `on-chain`, `off-chain`, `smart-contract`, etc. )
+
+**Pull Request and Issue Comments:**  
   Don’t hesitate to ask for help or clarification in comments. We’re all here to help each other out.
 
 ## Code of Conduct
 
-We want this to be a welcoming, inclusive community. By participating, you’re agreeing to follow our [Code of Conduct](CODE_OF_CONDUCT.md). In short, be respectful, considerate, and open-minded.
+We want this to be a welcoming, inclusive community. By participating, you’re agreeing to follow our [Code of Conduct](CODEOFCONDUCT.md). In short, be respectful, considerate, and open-minded.
 
 ## License
 
